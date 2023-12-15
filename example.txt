@@ -1,0 +1,5 @@
+create react project
+================================================================
+    1. npx create-react-app 01basicreact
+    
+    2. npm create vite@latest
